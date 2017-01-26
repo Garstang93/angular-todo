@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Garstang3/angular-todo.git"
+    "url": "git+https://github.com/Garstang93/angular-todo.git"
   },
   "keywords": [
     "angular-todo",
@@ -17,7 +17,7 @@
   "author": "Grant Garstang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Garstang3/angular-todo/issues"
+    "url": "https://github.com/Garstang93/angular-todo/issues"
   },
-  "homepage": "https://github.com/Garstang3/angular-todo#readme"
+  "homepage": "https://github.com/Garstang93/angular-todo#readme"
 }
